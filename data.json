@@ -1,0 +1,15 @@
+[
+    {
+        "Name":"Bob",
+        "age" : 22,
+        "isActive": true,
+        "email" : null
+    },
+    {
+        "Name":"Boba",
+        "age" : 22,
+        "isActive": true,
+        "company" : ["company1","company2","company3"]
+    }
+
+]
